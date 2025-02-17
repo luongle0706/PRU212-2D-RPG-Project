@@ -707,14 +707,14 @@ PlayerSettings:
   embeddedLinuxEnableGamepadInput: 1
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
-  apiCompatibilityLevel: 3
+  apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: a491852c-3cf0-456b-897f-5d34bf4cd551
+  cloudProjectId: 1e385be3-a60b-40f4-8f0e-d49c5b22b027
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: pleaseeeeeeeeeeeeeeeeeee
-  organizationId: pinkyu
+  projectName: PRU212-Group-Project
+  organizationId: ducluongdn3
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
